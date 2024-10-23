@@ -1,1 +1,4 @@
-This project is an Android App which aims to provide a solution to manage a Book Library. Designed for both Users/Students and Library Admins, various operations such as adding/removing/updating books, searching books, issuing/re-issuing/returning books, seeing issued books with due dates, collecting fines, etc. can be performed.
+Library Management System (LMS) - Android App
+
+
+This Library Management System (LMS) is an Android application built using Java and SQLite, designed to help libraries efficiently manage their books and users. The app provides two key roles: Admin and User.
